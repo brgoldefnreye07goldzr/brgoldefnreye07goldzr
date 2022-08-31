@@ -12,4 +12,13 @@ header {
 ul{
 	display: flex;
 	align-items: center;
+	list-style: none;
+}
+
+Li{
+	margin-right: 20px;
+}
+
+Li:last-child{
+	margin-right: 0;
 }
